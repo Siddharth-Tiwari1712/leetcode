@@ -21,3 +21,16 @@ function romanToInt(s) {
 
   return total;
 }
+
+// Example
+// MCMXCIV
+
+// Process:
+
+// M = 1000 → add
+// C = 100  → next is M → subtract
+// M = 1000 → add
+// X = 10   → next is C → subtract
+// C = 100  → add
+// I = 1    → next is V → subtract
+// V = 5    → add
