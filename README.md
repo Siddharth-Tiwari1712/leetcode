@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0242-valid-anagram) |
+| [0844-backspace-string-compare](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/1544-make-the-string-great) |
 ## Sorting
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0844-backspace-string-compare](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0844-backspace-string-compare) |
 ## Math
 |  |
 | ------- |
@@ -77,10 +79,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
