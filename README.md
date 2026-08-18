@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
