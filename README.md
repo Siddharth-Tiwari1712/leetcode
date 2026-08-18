@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0242-valid-anagram) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
