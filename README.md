@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0704-binary-search) |
 ## Stack
 |  |
 | ------- |
