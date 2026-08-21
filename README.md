@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0733-flood-fill) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
