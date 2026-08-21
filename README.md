@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0739-daily-temperatures) |
+| [0994-rotting-oranges](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
