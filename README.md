@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0739-daily-temperatures) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
