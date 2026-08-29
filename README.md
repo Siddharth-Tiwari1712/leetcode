@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/1544-make-the-string-great) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Siddharth-Tiwari1712/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
